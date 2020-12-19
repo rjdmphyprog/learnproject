@@ -8,3 +8,6 @@ git push -u origin master
 diferente branch
 git pull 
 git checkout branchName
+
+git clone repoLink
+git status
